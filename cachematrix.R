@@ -1,7 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
 ## The makeCacheMatrix function is a function that contains a number of other functions.
 ## These allow you to set or get a matrix and also to calculate its inverse (solve) 
 ## and assign it to a variable that can be used outside of the function
@@ -21,7 +20,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 ## This cacheSolve function will return the inverse of the a matrix. 
 ## If the inverse has already been calculated for the given matrix and cached, 
 ## the cached value will be used, if not it will be calculated.
