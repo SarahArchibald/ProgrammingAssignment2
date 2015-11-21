@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do 
 
 ## The makeCacheMatrix function is a function that contains a number of other functions.
 ## These allow you to set or get a matrix and also to calculate its inverse (solve) 
